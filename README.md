@@ -1,4 +1,4 @@
-### Hey there, I'm Rohan 👋
+### 👋 Hey there, I'm Rohan
 
 <!--
 **rohanpaldesign/rohanpaldesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
