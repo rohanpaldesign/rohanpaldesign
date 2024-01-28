@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-I'm a first-year Master's student at the University of Washington studying Human Centered Design and Engineering! I'm passionate about social computing, internet security, and immersive experiences.
+I'm a second-year Master's student at the University of Washington studying Human Centered Design and Engineering! I'm passionate about social computing, internet security, and immersive experiences.
+
+Presently, I am actively looking for early-career roles in product management and technical program management to start in June 2024 and later.
 
 ### 🌱 I’m currently...
-- Interning as a Technical Program Manager Intern at Microsoft as part of the Azure Core, Mission Critical Platforms team.
 - Leading a few education-focused projects as the Product Lead for Develop for Good.
 - Serving as President of the Graduate Student Association (GSA) of UW HCDE.
 
