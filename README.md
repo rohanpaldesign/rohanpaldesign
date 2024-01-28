@@ -25,6 +25,7 @@ Presently, I am actively looking for early-career roles in product management an
 - Serving as President of the Graduate Student Association (GSA) of UW HCDE.
 
 ### 👩🏻‍💻 Previously, I...
+- Interned as a Technical Program Manager (TPM) Intern at Microsoft, defining policies to reduce repeated server faults and streamline the root cause analysis process in Azure using generative AI.
 - Worked as an Operations Manager Intern at Amazon, managing fulfillment center operations and driving delivery estimate accuracy metrics.
 - Worked in various early-stage startups, sometimes as the first and only designer and sometimes leading design teams, taking products from scratch to launch.
 
