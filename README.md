@@ -16,13 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-I'm a second-year Master's student at the University of Washington studying Human Centered Design and Engineering! I'm passionate about social computing, internet security, and immersive experiences.
-
-Presently, I am actively looking for early-career roles in product management and technical program management to start in June 2024 and later.
+I'm a Technical Program Manager at Abnormal Security. My interests include social computing, internet security, and cloud computing.
 
 ### 🌱 I’m currently...
+- Leading Platform & Infrastructure programs at Abnormal Security.
 - Leading a few education-focused projects as the Product Lead for Develop for Good.
-- Serving as President of the Graduate Student Association (GSA) of UW HCDE.
 
 ### 👩🏻‍💻 Previously, I...
 - Interned as a Technical Program Manager (TPM) Intern at Microsoft, defining policies to reduce repeated server faults and streamline the root cause analysis process in Azure using generative AI.
