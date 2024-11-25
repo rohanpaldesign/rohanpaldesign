@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I'm a Technical Program Manager at Abnormal Security. My interests include social computing, internet security, and cloud computing.
 
 ### 🌱 I’m currently...
-- Leading Platform & Infrastructure programs at Abnormal Security.
+- Driving Platform & Infrastructure programs at Abnormal Security.
 - Leading a few education-focused projects as the Product Lead for Develop for Good.
 
 ### 👩🏻‍💻 Previously, I...
