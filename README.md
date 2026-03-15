@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-I'm a Technical Program Manager at Abnormal Security. My interests include social computing, internet security, and cloud computing.
+I'm a Technical Program Manager at Abnormal AI. My interests include social computing, internet security, and cloud computing.
 
 ### 🌱 I’m currently...
-- Driving Platform & Infrastructure programs at Abnormal Security.
+- Driving Platform & Infrastructure and FedRAMP/Government Product Release programs at [Abnormal AI](https://abnormal.ai).
 - Leading a few education-focused projects as the Product Lead for Develop for Good.
 
 ### 👩🏻‍💻 Previously, I...
@@ -28,4 +28,4 @@ I'm a Technical Program Manager at Abnormal Security. My interests include socia
 - Worked in various early-stage startups, sometimes as the first and only designer and sometimes leading design teams, taking products from scratch to launch.
 
 ### 📫 I'd love to talk to you!
-Email me at [rohanpal@uw.edu](mailto:rohanpal@uw.edu) or connect with me on [LinkedIn](https://linkedin.com/in/rohanpal).
+Connect with me on [LinkedIn](https://linkedin.com/in/rohanpal).
